@@ -1,0 +1,6 @@
+h
+loadfile build/main.hex
+r
+g
+q
+
